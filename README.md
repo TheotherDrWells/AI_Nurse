@@ -11,6 +11,7 @@ This repository introduces **Nurse AI**, a proof-of-concept framework for monito
 | `NurseAI.pdf` | White paper describing the motivation, architecture, and tiered integrity framework |
 | `NurseAIDemo.R` | R implementation of a runtime diagnostic and scoring script |
 | `NurseAIDemo.py` | Python implementation of the same logic for cross-platform compatibility |
+| `License.md` | The License |
 | `README.md` | This file |
 
 ---
